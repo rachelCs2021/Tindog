@@ -135,7 +135,7 @@ body {
 /* Pricing Section */
 
 #pricing {
-  padding: 100px 225px;
+  padding: 7% 15%;
   text-align: center;
 }
 
@@ -184,5 +184,8 @@ body {
     position: static;
     transform: none;
     width: 60%;
+  }
+  #pricing{
+    padding: auto;
   }
 }
